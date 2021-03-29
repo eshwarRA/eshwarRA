@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @eshwarRA
+- 👀 I’m interested in programming in java and python and also am a linux power user 
+- 🌱 I’m currently learning more of python 
+- 💞️ I’m looking to collaborate on machine learning based python projects
+- 📫 How to reach me => my email = eshwarra5@gmail.com
